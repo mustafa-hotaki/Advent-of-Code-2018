@@ -1,11 +1,11 @@
 # Advent-of-Code-2018
 
-Received 2 stars so far.
+Received 4 stars so far.
 
 The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX in notebooks very well.
 
-[Day 1: Chronal Calibration](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day1/Day1.ipynb) (Not currently uploaded or done.) \
-[Day 2: Inventory Management System](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day2/Day2.ipynb) (Not currently uploaded or done.) \
+[Day 1: Chronal Calibration](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day1/Day1.ipynb) \
+[Day 2: Inventory Management System](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day2/Day2.ipynb) \
 [Day 3: No Matter How You Slice It](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day3/Day3.ipynb) (Not currently uploaded or done.) \
 [Day 4: Repose Record](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day4/Day4.ipynb) (Not currently uploaded or done.) \
 [Day 5: Alchemical Reduction](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day5/Day5.ipynb) (Not currently uploaded or done.) \
