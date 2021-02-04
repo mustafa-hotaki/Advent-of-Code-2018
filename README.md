@@ -10,8 +10,8 @@ The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX i
 [Day 4: Repose Record](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day4/Day4.ipynb) \
 [Day 5: Alchemical Reduction](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day5/Day5.ipynb) (Not currently uploaded or done.) \
 [Day 6: Chronal Coordinates](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day6/Day6.ipynb) (Not currently uploaded or done.) \
-[Day 7: The Sum of Its Parts](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day7/Day7.ipynb) (Not currently uploaded or done.) \
-[Day 8: Memory Maneuver](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day8/Day8.ipynb) (Not currently uploaded or done.) \
+[Day 7: The Sum of Its Parts](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day7/Day7.ipynb) \
+[Day 8: Memory Maneuver](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day8/Day8.ipynb) \
 [Day 9: Marble Mania](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day9/Day9.ipynb) (Not currently uploaded or done.) \
 [Day 10: The Stars Align](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day10/Day10.ipynb) (Not currently uploaded or done.) \
 [Day 11: Chronal Charge](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day11/Day11.ipynb) (Not currently uploaded or done.) \
