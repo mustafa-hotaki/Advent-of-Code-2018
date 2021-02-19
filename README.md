@@ -1,6 +1,6 @@
 # Advent-of-Code-2018
 
-Received 24 stars so far.
+Received 26 stars so far.
 
 The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX in notebooks very well.
 
@@ -17,7 +17,7 @@ The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX i
 [Day 11: Chronal Charge](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day11/Day11.ipynb) (Not currently uploaded or done.) \
 [Day 12: Subterranean Sustainability](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day12/Day12.ipynb) \
 [Day 13: Mine Cart Madness](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day13/Day13.ipynb) (Not currently uploaded or done.) \
-[Day 14: Chocolate Charts](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day14/Day14.ipynb) (Not currently uploaded or done.) \
+[Day 14: Chocolate Charts](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day14/Day14.ipynb) \
 [Day 15: Beverage Bandits](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day15/Day15.ipynb) (Not currently uploaded or done.) \
 [Day 16: Chronal Classification](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day16/Day16.ipynb) (Not currently uploaded or done.) \
 [Day 17: Reservoir Research](https://github.com/mustafa-hotaki/Advent-of-Code-2018/blob/main/Day17/Day17.ipynb) (Not currently uploaded or done.) \
